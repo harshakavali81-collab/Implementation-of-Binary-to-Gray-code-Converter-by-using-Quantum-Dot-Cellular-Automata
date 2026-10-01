@@ -8,10 +8,10 @@ Implement Binary-to-Gray code conversion using Quantum Dot Cellular Automata con
 - 4-bit: G3 = B3; G2 = B3 XOR B2; G1 = B2 XOR B1; G0 = B1 XOR B0.
 
 ## QCA Concepts Covered
-The supplied report covers QCA cells, wires, inverters, majority voters, clock phases, wire crossings, VLSI context, and QCA-based code converters.
+QCA cells, wires, inverters, majority voters, clock phases, wire crossings, VLSI context, and QCA-based code converters.
 
 ## Simulation Scope
-The supplied report includes EXOR gate simulation and 2-bit / 4-bit Binary-to-Gray Verilog simulations with exhaustive input vectors for the documented bit widths.
+EXOR gate simulation and 2-bit / 4-bit Binary-to-Gray Verilog simulations with exhaustive input vectors.
 
 ## Tools Mentioned in Source
-QCA Designer and Microwind lite are stated in the project report for simulation and verification.
+QCA Designer and Microwind lite are stated in the supplied project report.
